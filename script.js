@@ -56,3 +56,6 @@ accordianTitles.forEach(currentItem =>{
     })
 })
 
+let a = 33;
+let b = 22;
+let c = a + b;
